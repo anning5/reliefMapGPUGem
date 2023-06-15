@@ -1,0 +1,31 @@
+﻿d:\Apps\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props(24,5): warning MSB4211: The property "MsvcAnalysisPluginPath" is being set to a value for the first time, but it was already consumed at "d:\Apps\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (33,5)".
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  dxstdafx.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  DXUTSettingsDlg.cpp
+  DXUTmisc.cpp
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTmisc.cpp(2977,81): warning C4996: 'GetVersionExA': was declared deprecated
+  DXUTMesh.cpp
+  DXUTgui.cpp
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTgui.cpp(6395,17): warning C4996: 'GetVersionExA': was declared deprecated
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTgui.cpp(8242,37): warning C4458: declaration of 'iTexture' hides class member
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTgui.h(106,10): message : see declaration of 'CDXUTElement::iTexture'
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTgui.cpp(8256,34): warning C4458: declaration of 'iFont' hides class member
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTgui.h(107,10): message : see declaration of 'CDXUTElement::iFont'
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTgui.cpp(8256,74): warning C4458: declaration of 'dwTextFormat' hides class member
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUTgui.h(108,11): message : see declaration of 'CDXUTElement::dwTextFormat'
+  DXUTenum.cpp
+  DXUT.cpp
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(1297,18): warning C4456: declaration of 'nWidth' hides previous local declaration
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(1271,10): message : see declaration of 'nWidth'
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(1298,18): warning C4456: declaration of 'nHeight' hides previous local declaration
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(1272,10): message : see declaration of 'nHeight'
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(2954,22): warning C4456: declaration of 'hAdapterMonitor' hides previous local declaration
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(2867,14): message : see declaration of 'hAdapterMonitor'
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(3189,13): warning C4996: 'GetVersionExA': was declared deprecated
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(4684,124): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(4684,180): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(4685,128): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\DXUT.cpp(4685,188): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+  Generating Code...
+  DXUT.vcxproj -> D:\GPU Gems 3 code\content\18\demo\preprocess\DXUT\Debug\DXUT.lib
